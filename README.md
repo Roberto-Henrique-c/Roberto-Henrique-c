@@ -1,40 +1,47 @@
 ## Olá, eu sou o Roberto Henrique 👋
-Sou apaixonado por desenvolvimento web e sempre em busca de novos desafios para aprimorar minhas habilidades. Atualmente, estou focado em aprender e aplicar tecnologias como HTML5, CSS3, JavaScript, além de explorar o mundo do desenvolvimento de sites e interfaces. Estou criando e compartilhando projetos para colocar em prática o que aprendo, e estou sempre disposto a colaborar com outros desenvolvedores e entusiastas.
 
-## Sobre Mim
-👀 Tenho interesse em desenvolvimento web, programação e criação de projetos interativos
-<br> 
-🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e desenvolvimento de sites.
-<br>
-💞️ Estou procurando colaborar em projetos de código aberto e desafios de programação web.
-<br>
-📫 Como me encontrar: [robertocarvalhoc331@gmail.com].
-<br>
-😄 Pronomes: Ele/Dele.
-<br>
-⚡ Curiosidade: Adoro criar sites e projetos interativos, e estou sempre aprendendo algo novo!
+Estudante de Desenvolvimento de Sistemas com foco em banco de dados e desenvolvimento backend. Tenho conhecimento em SQL, modelagem de dados e desenvolvimento web, criando projetos para aplicar na prática conceitos de programação e integração com banco de dados.
 
- ## Conhecimentos e Tecnologias que utilizo
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Anna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Anna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Anna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
+---
 
+## 🚀 Tecnologias e Conhecimentos
 
+- **Desenvolvimento Web:** HTML, CSS e JavaScript  
+- **Backend:** PHP (integração com banco de dados)  
+- **Banco de Dados:** SQL para consulta e manipulação de dados, MySQL, modelagem relacional  
+- **Ferramentas:** Git e GitHub  
 
-## Meus Repositórios
+---
 
-html-css1 - Curso de HTML5 e CSS3 para iniciantes
-<br>
-javascript - Curso de JavaScript para iniciantes
-<br>
-Projeto-login - Tela de login com HTML e CSS
-<br>
-projeto-social - Projeto de Redes Sociais
-<br>
-projeto-cordel - Projeto Cordel Milton Duarte
-<br>
-projeto-android - Projeto de um site Android em HTML e CSS
+## 📂 Projetos
+
+🔹 **html-css1**  
+Projetos e exercícios focados em HTML5 e CSS3  
+
+🔹 **javascript**  
+Exercícios e práticas com JavaScript  
+
+🔹 **Projeto-login**  
+Tela de login desenvolvida com HTML e CSS  
+
+🔹 **projeto-social**  
+Simulação de interface de redes sociais  
+
+🔹 **projeto-cordel**  
+Projeto baseado no Cordel de Milton Duarte  
+
+🔹 **projeto-android**  
+Site temático desenvolvido com HTML e CSS  
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade na área de tecnologia para atuar com desenvolvimento e banco de dados, aplicando conhecimentos em SQL, PHP e desenvolvimento web, além de evoluir tecnicamente em um ambiente profissional.
+
+---
+
+## 📫 Contato
+
+- Email: robertocarvalhoc331@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/roberto-henriquec/  
